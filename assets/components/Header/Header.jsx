@@ -7,9 +7,9 @@ import { faSprayCan } from "@fortawesome/free-solid-svg-icons";
 const Header = () => {
     const { t, i18n } = useTranslation()
 
-  const handleChange = (e) => {
-    i18n.changeLanguage(e.target.value)
-  }
+    const handleChange = (e) => {
+        i18n.changeLanguage(e.target.value)
+    }
     return (
         <div className='header'>
             <div className='container'>

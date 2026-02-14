@@ -4,5 +4,16 @@
         "link2": "Biz haqimizda",
         "link3": "Brendlarimiz",
         "link4": "Aloqa"
+    },
+    "hero": {
+        "title1": "O'Z ATIRINGIZNI YARATING",
+        "text1": "Bizning tajribali parfyumerlarimiz eng sifatli ingredientlar va zamonaviy texnologiyalar yordamida siz uchun mutlaqo noyob hid yaratadi",
+        "btn1": "BIZ BILAN BOG'LANING",
+        "title2": "O'ZIGA XOS AROMATINGIZNI KASHF ETING",
+        "text2": "Har biri nafislik va joziba hikoyasini so‘zlovchi eksklyuziv kolleksiyalarimizdan bahramand bo‘ling",
+        "btn2": "SO'ROV QOLDIRISH",
+        "title3": "EKSKLYUZIV KOLLEKSIYALAR",
+        "text3": "Mukammallik bilan yaratilgan hashamatli atirlarimiz orqali hid san’atini his eting",
+        "btn3": "HOZIR KO'RISH"
     }
 }

@@ -4,5 +4,16 @@
         "link2": "About Us",
         "link3": "Our Brands",
         "link4": "Contacts"
+    },
+    "hero": {
+        "title1": "CREATE YOUR OWN FRAGRANCE",
+        "text1": "Our expert perfumers develop a scent that is truly one-of-a-kind, using the finest ingredients and advanced techniques",
+        "btn1": "CONTACT US",
+        "title2": "DISCOVER YOUR SIGNATURE SCENT",
+        "text2": "Indulge in our exclusive collections, each telling story of elegace and charm",
+        "btn2": "MAKE A REQUEST",
+        "title3": "EXCLUSIVE COLLECTIONS",
+        "text3": "Experience the art of fragrance with our exclusive line of luxury perfumes, crafted to perfection.",
+        "btn3": "EXPLORE NOW"
     }
 }

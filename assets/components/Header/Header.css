@@ -1,7 +1,20 @@
+.header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 80px;
+    z-index: 99999;
+    background: rgba(212, 219, 220, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
 .logo {
     display: flex;
     align-items: center;
     gap: 20px;
+    cursor: pointer;
 }
 
 .header__container {
@@ -37,7 +50,7 @@
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: rgb(170, 176, 110);
+    color: rgb(48, 48, 46);
     position: relative;
     text-decoration: none;
     transition: color 0.3s ease;
@@ -68,8 +81,9 @@
     padding: 8px 12px;
     font-size: 16px;
     font-weight: 500;
-    border: 2px solid #ca8a04;
-    border-radius: 8px;
+    width: 100px;
+    border: 2px solid #c203d7;
+    border-radius: 30px;
     background-color: #fff;
     color: #333;
     appearance: none;
@@ -89,6 +103,6 @@
 
 .lang-select:focus {
     outline: none;
-    border-color: #ffb700;
+    border-color: #e100ff;
     box-shadow: 0 0 5px rgba(255, 184, 0, 0.5);
 }
