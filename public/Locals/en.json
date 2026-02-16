@@ -15,5 +15,20 @@
         "title3": "EXCLUSIVE COLLECTIONS",
         "text3": "Experience the art of fragrance with our exclusive line of luxury perfumes, crafted to perfection.",
         "btn3": "EXPLORE NOW"
+    },
+    "nav": {
+        "title": "About Luxury Line Perfumes",
+        "text": "At Luxury Line Perfumes, we believe that a fragrance is not just a scent but an experience. We offer an exquisite collection of hand-crafted perfumes, made from the finest ingredients sourced from around the world. Each bottle is a testament to our commitment to quality, elegance, and sophistication. Whether you are looking for a signature scent, a custom blend, or a gift for a loved one, our team of expert perfumers is here to guide you on a sensory journey like no other. Step into our world and discover the art of fragrance.",
+        "btn": "Learn More"
+    },
+    "article": {
+        "title": "Sustainability",
+        "text": "At our company, sustainability is at the core of our mission and values. We are dedicated to adopting and promoting eco-friendly practices across all aspects of our business. Here’s how we make a difference:",
+        "title1": "Eco-friendly Production",
+        "text1": "We utilize sustainable materials and processes in our production to reduce our carbon footprint. Our facilities are designed to minimize waste and optimize energy efficiency.",
+        "title2": "Community Engagement",
+        "text2": "We engage with local communities to support environmental conservation projects and promote awareness about sustainable living .",
+        "title3": "Innovation & Efficiency",
+        "text3": "We are committed to driving innovation that leads to greater sustainability. By enhancing our processes and technologies, we aim to reduce environmental impact while improving product quality and efficiency"
     }
 }

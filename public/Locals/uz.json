@@ -15,5 +15,20 @@
         "title3": "EKSKLYUZIV KOLLEKSIYALAR",
         "text3": "Mukammallik bilan yaratilgan hashamatli atirlarimiz orqali hid san’atini his eting",
         "btn3": "HOZIR KO'RISH"
+    },
+    "nav": {
+        "title": "Luxury Line atirlari haqida",
+        "text": "Luxury Line atirlarida biz ishonamizki, atir shunchaki hid emas, balki bu bir tajribadir. Biz dunyoning turli burchaklaridan keltirilgan eng nafis ingredientlardan tayyorlangan qo‘l mehnati mahsuli bo‘lgan atirlarning noyob to‘plamini taklif etamiz. Har bir flakon sifat, nafislik va mukammallikka bo‘lgan sadoqatimizning ifodasidir. O‘zingiz uchun o‘ziga xos hid, maxsus aralashma yoki yaqin insoningizga sovg‘a izlayotgan bo‘lsangiz, tajribali parfumerlarimiz sizni betakror hidlar olamiga sayohatga chorlaydi. Bizning dunyomizga qadam qo‘ying va atir san’atini kashf eting.",
+        "btn": "Batafsil"
+    },
+    "article": {
+        "title": "Barqarorlik",
+        "text": "Kompaniyamizda barqarorlik bizning asosiy maqsad va qadriyatlarimiz markazida turadi. Biz faoliyatimizning barcha yo‘nalishlarida ekologik toza amaliyotlarni joriy etish va targ‘ib qilishga intilamiz. Mana biz qanday qilib ijobiy ta’sir ko‘rsatamiz:",
+        "title1": "Ekologik toza ishlab chiqarish",
+        "text1": "Uglerod izimizni kamaytirish maqsadida ishlab chiqarishda barqaror materiallar va jarayonlardan foydalanamiz. Korxonalarimiz chiqindilarni kamaytirish va energiya samaradorligini oshirish uchun maxsus loyihalashtirilgan.",
+        "title2": "Jamiyat bilan hamkorlik",
+        "text2": "Atrof-muhitni muhofaza qilish loyihalarini qo‘llab-quvvatlash va barqaror turmush tarzini targ‘ib qilish maqsadida mahalliy hamjamiyatlar bilan hamkorlik qilamiz.",
+        "title3": "Innovatsiya va samaradorlik",
+        "text3": "Biz barqarorlikni oshiruvchi innovatsiyalarni rivojlantirishga sodiqmiz. Jarayonlar va texnologiyalarni takomillashtirish orqali atrof-muhitga ta’sirni kamaytirish bilan birga mahsulot sifati va samaradorligini oshirishni maqsad qilganmiz."
     }
 }
