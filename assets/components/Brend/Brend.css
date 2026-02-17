@@ -1,0 +1,60 @@
+.brend__container {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+.brend__box {
+    text-align: center;
+}
+
+.brend__title {
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 6px;
+    margin-bottom: 30px;
+}
+
+.brend__text {
+    font-size: 22px;
+    letter-spacing: 3px;
+    color: black;
+    opacity: 0.7;
+    margin-bottom: 80px;
+}
+
+.brend__list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.brend__item {
+    width: 180px;
+    height: 250px;
+    background: rgb(245, 244, 244);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    flex-shrink: 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.brend__item:hover {
+    background: #fef9c2;
+}
+
+.brend__item:hover .brend-item__text {
+    color: #8a0194;
+}
+
+.brend-item__text {
+    margin-top: 80px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
