@@ -58,5 +58,31 @@
     "brend": {
         "title": "Our Brands",
         "text": "Meet our famous brands"
+    },
+    "aside": {
+        "title": "Our Working Process",
+        "text": "Discover our range of professional services designed to meet your fragrance needs.",
+        "title1": "Contract Manufacturing",
+        "text1": "At Luxury Line Perfumes, we offer bespoke contract manufacturing services for clients seeking to create unique fragrances. Our state-of-the-art facility in the UAE is equipped with advanced technology and staffed by experienced perfumers and chemists. We work closely with you from concept to completion, ensuring that every aspect of your fragrance meets your exact specifications. Whether you're looking to develop a signature scent or a complete product line, our team is dedicated to delivering exceptional quality and unparalleled service.",
+        "title2": "Contract Filling",
+        "text2": "Luxury Line Perfumes provides professional contract filling services, ensuring your fragrances are packaged with precision and care. Our automated filling lines can handle a variety of bottle sizes and shapes, catering to both small and large production runs. We maintain stringent quality control measures to guarantee that every bottle is filled accurately and consistently. Partner with us to streamline your production process and ensure your products reach the market flawlessly packaged and ready for sale.",
+        "title3": "Distribution of Other Brands",
+        "text3": "In addition to manufacturing our own luxury fragrances, Luxury Line Perfumes is proud to offer distribution services for other premium fragrance brands. Our extensive distribution network covers the entire UAE and beyond, providing brands with access to a wide range of retail and wholesale channels. We handle logistics, storage, and delivery, ensuring that your products are distributed efficiently and reach your customers in perfect condition. Trust us to be your reliable partner in expanding your brand's reach and presence in the market.",
+        "title4": "Manufacturing of Our Brand Fragrances",
+        "text4": "Luxury Line Perfumes is synonymous with elegance, sophistication, and unparalleled craftsmanship. Our in-house brand fragrances are meticulously crafted using the finest ingredients sourced from around the world. Each scent is a masterpiece, embodying the essence of luxury and refinement. From classic to contemporary, our diverse collection of fragrances caters to discerning tastes and preferences. Explore our range to discover the perfect scent that resonates with your unique style and personality."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "btn": "Send"
+    },
+    "location": {
+        "title": "Get In Touch",
+        "text": "Discover the essence of luxury with our exquisite fragrance collection. Whether you have a question, need assistance, or simply want to share your thoughts, we're here to help. Connect with us and immerse yourself in the world of captivating scents."
+    },
+    "footer": {
+        "link": "Contact Us",
+        "title": "At Luxury Line Perfumes, we create exquisite fragrances that captivate your senses and leave a lasting impression. Explore our collection and find your signature scent today.",
+        "title1": "Best Products",
+        "title2": "Discover our most popular fragrances"
     }
 }

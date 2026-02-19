@@ -42,7 +42,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="hero">
+    <div className="hero" id="home">
       <div
         className="hero__bg"
         style={{ backgroundImage: `url(${slides[index].image})` }}

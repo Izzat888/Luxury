@@ -22,10 +22,10 @@ const Header = () => {
                         </div>
                     </div>
                     <ul className='header__list'>
-                        <li className='header__item'><a className='header__link' href="#">{t("header.link1")}</a></li>
-                        <li className='header__item'><a className='header__link' href="#">{t("header.link2")}</a></li>
-                        <li className='header__item'><a className='header__link' href="#">{t("header.link3")}</a></li>
-                        <li className='header__item'><a className='header__link' href="#">{t("header.link4")}</a></li>
+                        <li className='header__item'><a className='header__link' href="#home">{t("header.link1")}</a></li>
+                        <li className='header__item'><a className='header__link' href="#about">{t("header.link2")}</a></li>
+                        <li className='header__item'><a className='header__link' href="#our">{t("header.link3")}</a></li>
+                        <li className='header__item'><a className='header__link' href="#contact">{t("header.link4")}</a></li>
                     </ul>
                     <select
                         className="lang-select"

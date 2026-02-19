@@ -48,7 +48,7 @@ const Section = () => {
                         </li>
                     </ul>
                 </div>
-                <div className="accordion__container">
+                <div className="accordion__container" id='our'>
                     <h4 className='accordin__title'>{t("section.title10")}</h4>
                     <p className='accordion__text'>{t("section.text10")}</p>
                     <Accordion>

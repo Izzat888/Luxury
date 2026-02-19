@@ -7,7 +7,7 @@ import video from "./video/video.mp4"
 const Article = () => {
     const { t } = useTranslation()
     return (
-        <div className='article'>
+        <div className='article' id='about'>
             <div className="container">
                 <div className="article__container">
                     <div className="article__box">

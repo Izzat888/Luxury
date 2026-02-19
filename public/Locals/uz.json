@@ -58,5 +58,31 @@
     "brend": {
         "title": "Bizning Brendlarimiz",
         "text": "Mashhur brendlarimiz bilan tanishing"
+    },
+    "aside": {
+        "title": "Bizning Ish Jarayonimiz",
+        "text": "Atir ehtiyojlaringizni qondirish uchun mo‘ljallangan professional xizmatlarimiz bilan tanishing.",
+        "title1": "Shartnoma Asosida Ishlab Chiqarish",
+        "text1": "Luxury Line Perfumes kompaniyasi o‘ziga xos atirlar yaratmoqchi bo‘lgan mijozlar uchun maxsus shartnoma asosida ishlab chiqarish xizmatlarini taklif etadi. BAA hududidagi zamonaviy ishlab chiqarish korxonamiz ilg‘or texnologiyalar bilan jihozlangan bo‘lib, tajribali parfyumerlar va kimyogarlar tomonidan boshqariladi. Biz siz bilan g‘oyadan tortib yakuniy mahsulotgacha yaqindan hamkorlik qilamiz va har bir jihat sizning talablaringizga mos bo‘lishini ta’minlaymiz. Shaxsiy hid yoki to‘liq mahsulot liniyasini yaratmoqchi bo‘lsangiz, jamoamiz sizga yuqori sifat va mukammal xizmatni taqdim etishga tayyor.",
+        "title2": "Shartnoma Asosida Qadoqlash",
+        "text2": "Luxury Line Perfumes professional shartnoma asosida qadoqlash xizmatlarini taqdim etadi, bu orqali atirlaringiz aniqlik va ehtiyotkorlik bilan qadoqlanadi. Avtomatlashtirilgan to‘ldirish liniyalarimiz turli o‘lcham va shakldagi flakonlar bilan ishlay oladi, kichik va yirik ishlab chiqarish hajmlariga moslashadi. Har bir flakon aniq va bir xil miqdorda to‘ldirilishini ta’minlash uchun qat’iy sifat nazorati olib boriladi. Biz bilan hamkorlik qilib, ishlab chiqarish jarayonini soddalashtiring va mahsulotlaringizni bozorga mukammal qadoqlangan holda chiqaring.",
+        "title3": "Boshqa Brendlar Distribyutsiyasi",
+        "text3": "Luxury Line Perfumes o‘zining hashamatli atirlarini ishlab chiqarishdan tashqari, boshqa premium brendlar uchun ham distribyutsiya xizmatlarini taklif etadi. Keng distribyutsiya tarmog‘imiz BAA va undan tashqaridagi hududlarni qamrab oladi, brendlarga chakana va ulgurji savdo kanallariga kirish imkonini beradi. Biz logistika, saqlash va yetkazib berish jarayonlarini boshqaramiz, mahsulotlaringiz mijozlarga mukammal holatda yetib borishini ta’minlaymiz. Bozordagi ishtirokingizni kengaytirishda bizni ishonchli hamkor sifatida tanlang.",
+        "title4": "O‘z Brendimiz Atirlarini Ishlab Chiqarish",
+        "text4": "Luxury Line Perfumes nafislik, hashamat va yuksak mahorat timsolidir. Ichki brendimiz atirlari dunyoning eng sara xomashyolaridan foydalanib yaratiladi. Har bir hid – bu hashamat va did ifodasi bo‘lgan san’at asaridir. Klassikdan zamonaviy uslublargacha bo‘lgan keng kolleksiyamiz nozik didli mijozlar uchun mo‘ljallangan. O‘z uslubingiz va shaxsiyatingizga mos mukammal hidni topish uchun assortimentimiz bilan tanishing."
+    },
+    "contact": {
+        "title": "Biz bilan bog‘laning",
+        "btn": "Yuborish"
+    },
+    "location": {
+        "title": "Bog‘laning",
+        "text": "Bizning nafis atirlar kolleksiyamiz orqali hashamat mohiyatini kashf eting. Savolingiz bo‘lsa, yordam kerak bo‘lsa yoki fikrlaringizni ulashmoqchi bo‘lsangiz, biz doimo yordam berishga tayyormiz. Biz bilan bog‘laning va o‘zingizni jozibali hidlar olamiga botiring."
+    },
+    "footer": {
+        "link": "Biz bilan bog'laning",
+        "title": "Luxury Line Perfumes’da biz sizning hissiyotlaringizni zabt etadigan va uzoq davom etadigan nafis atirlar yaratamiz. Kolleksiyamizni kashf eting va bugun o‘z imzo hidingizni toping.",
+        "title1": "Eng yaxshi mahsulotlar",
+        "title2": "Eng mashhur atirlarimizni kashf eting"
     }
 }
